@@ -1,0 +1,143 @@
+* Matemática
+Conteúdos mais cobrados no ENEM:
+- [ ] Razão e Proporção
+- [ ] Porcentágem
+- [ ] Aritmética
+- [ ] Geometria Espacial
+- [ ] Funções
+- [ ] Geometria Plana
+- [ ] Estatística
+- [ ] Probabilidade
+
+Conteúdos mais cobrados na UFPR
+- [ ] Matemática Básica
+- [ ] Geometria Espacial
+- [ ] Geometria Analítica
+- [ ] Geometria Plana
+- [ ] Funções
+- [ ] Probabilidade
+
+** Matemática Básica
+Na matemática básica temos alguns cálculos mais símples para fazer
+*** Adição
+A *adição* é uma operação básica.Seu cálculo consiste em pegar dois números reais(\[\mathbb{R}\]} e adicionar seus valores,afim de gerar um terceiro resultado maior.  
+Como fazer uma conta de adição simples??
+para isso temos uma simples formula
+$a+b=c$
+ou seja
+$1+2=3$
+ou ainda
+\[25+30=55\]
+basicamente você pega o primeiro valor $a$ e adiciona(soma) o valor de $b$ e se chega no valor de $c$
+exercícios
+     A=$1+2=3$
+     B=$2+4=6$
+     C=$23189304+92328324=115517628$
+*** subtração
+A *subtração* é o processo inverso da adição,consistindo em você pegar dois números reais (\[\mathbb{R}\])
+e diminuir seus valores,afim de conseguir um número menor.
+A fórmula é um pouco diferente da adição.
+$a-b=c$
+Sendo assim
+$10-6=4$
+$100-10=90$
+$0-2=-2$
+
+*** Multiplicação
+A *multiplicação* é uma forma mais rápida de se fazer uma adição.Vamos lá,a multiplicação tem uma fórmula simples.
+$a\cdot b=c$ 
+Onde para resolver basta pegar o valor de $a$ e somar pela quantidade de $b$,chegando assim no produto $c$
+exemplo
+$2\cdot 2=4$
+o que fizemos aqui foi $2+2$ para chegar em $4$
+$6\cdot 6=36$
+o que fizemos aqui foi $6+6+6+6+6+6=36$
+
+*** Divisão
+*Divisão* é o(a) processo (operação) inverso(a) à multiplicação.
+$a\div b =c$
+$n$ sendo o dividendo,$d$ sendo o divisor e $q$ sendo o quociente(resultado da equação e $r$ sendo o resto.Esses são os elementos presentes em uma divisão exata.
+fórmula:
+$n=d\cdot q+r$ ou $n=dq+r$
+exemplo de divisão exata:
+$12\div 4=3$
+$36\div 6=6$
+$247\div 2=123,5$
+*Divisões inexatas*
+As divisões inexatas não tem um resultado exato,na maioria dos casos gerando dizimas periódicas,que são numeros racionais($\mathbb{Q}$),infinitos e geralmente nós aproximamos o resultado.
+exemplo de divisão inexata: 
+l$43\div 3=14{,}3\dots$
+*** Frações 
+*Frações* são uma das duas formas de representar os números racionais(($\mathbb{Q}$) e outra forma de se representar divisões.Possuindo dois elementos básicos, o numerador $n$ e o denominador $d$.
+sendo assim,
+$\frac{n}{d}$ 
+exemplo de frações
+$\frac{1}{2}$ 
+$\frac{1}{3}$ 
+$\frac{5}{7$
+**** Operações com frações
+***** soma de frações
+A *soma de frações* é uma operação bem simples,consiste em você somar duas ou mais frações.
+Se as frações tiverem denominadores iguais,repetimos o denominador e somamos os numeradores.
+exemplo:
+  $\begin{bmatrix} \frac{1}{2} + \frac{3}{2} = \frac{4}{2} \end{bmatrix}$
+ Agora se as frações tiverem denominadores diferentes,temos que fazer o M.M.C(Mínimo Múltiplo Comum) entre eles,fazer a múltiplicação cruzada(em forma de X) e depois somar os termos.
+ exemplo:
+ $\frac{3}{2} + \frac{5}{8} \rightarrow \frac{24+10}{16} \rightarrow \frac{34}{16}=2,125$
+ o que fizemos foi:
+ 
+ tirar o m.m.c. entre $2$ e $8$ que é $16$ , multiplicar cruzado $3$ por $8$ e $2$ por $5$ e conseguimos respectivamente,$24+10$ . Fizemos a soma da nova equação resultando em $\frac{34}{16}$ e divimos $34$ por $16$ , para chegarmos em $2{,}125$.
+ Se o resultado do exercício estiver em forma de fração,temos que simplificar.Para isso dividimos tanto o numerador $n$ e o denominador $d$ por um _fator comum_ (numero que divide ou multiplica ambos os termos).
+ 
+ Se quiser simplificar a equação,dividimos por 2:
+ 
+ Frações irredutiveis são aquelas impossíveis de se dividir.
+***** subtração de frações
+A subtração de frações tem o mesmo princípio da soma de frações,só que ao invés de somarmos os numeradores,subtraimos eles
+exemplo:
+$\frac{5}{5}-\frac{7}{5}=\frac{-2}{5}$
+Quando se tem denominadores diferentes o processo é também o mesmo da soma de frações com denominadores diferentes.
+exemplo:
+$\frac{3}{2}-\frac{7}{6}=\frac{18-21}{12}\rightarrow\frac{-4}{12}\div2=\frac{-2}{6}$
+***** Multiplicação de fração
+A multiplicação de frações é a operação mais fácil de frações,você só deve multiplicar todos os termos,numerador com numerador e denominador com denominador.
+$\begin{bmatrix}
+a & \times & c
+& b & \times & d
+\end{bmatrix}$
+exemplo:
+$\frac{5}{6}{.}\frac{7}{9}=\frac{35}{54}$
+***** Divisão de frações
+Na divisão de frações devemos somente multiplicar a primeira fração pelo inverso da segunda.
+Exemplo:
+$\frac{6}{5} \div \frac{2}{10} \rightarrow \frac{6}{5} \cdot \frac{10}{2} = \frac{60}{10} \rightarrow \frac{6}{1}$ ou somente $6$
+*** Decimais 
+Os números decimais fazem parte do conjunto dos números reais ($\mathbb{R}$) e do conjunto dos números racionais ($\mathbb{Q}$).Os famosos números com vírgula.
+exemplos de decimais:
+$23{,}5$
+$1{,}890$
+$\pi = 3{,}1495915\dotsc$
+**** operações com decimais
+***** Adição
+A adição com números decimais é bem símples,vamos lá
+$2{,}65 + 7{,}70= 10{,}35$
+é uma soma padrão,o cuidado que deve-se ter com relação a soma de números decimais é a posição da vírgula.
+***** Subtração
+Subtrair números decimais é o mesmo processo da subtração padrão o único cuidado é com relação a posição da vírgula.
+Exemplo:
+$5{,}76-3{,}67 = 2{,}09$
+Uma dica que eu dou em relação a adição e subtração de decimais é:
+sempre comece pela direita,pois fica mais fácil acertar o cálculo
+***** Multiplicação
+Na multiplicação de frações é a mesma coisa da multiplicação comum,só
+não esqueça de colocar a vírgula no lugar certo.
+exemplo: $278\cdot 67,86=18{,}875{.}08$
+***** Divisão
+A mesma regra se aplica para às divisões.Sempre se lembre de colocar a vírgula no final.
+exemplo:
+$32\div 1{,}6= 2{,}0$
+***** Tranformação de decimal para fração 
+Para transformarmos decimais em fração devemos;Fingir que a vírgula não existe;Contar às casa após a vírgula.
+exemplo:
+$0,26 = \frac{26}{100}$
+$2,6= \frac{26}{10}$
