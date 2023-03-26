@@ -146,20 +146,22 @@ $2^3=8$ ou seja $2\cdot 2\cdot 2=8$
 *** Jogo dos sinais
 O "jogo de sinais" ou "regra de sinais" serve para determinarmos se o resultado será positivo ou negativo.A tabela funciona mais ou menos assim:
 
-    Jogo de sinais
+ Jogo de sinais
     
 | + | + | + |  
 | - | - | + |
 | + | - | - |
 | - | + | - |
- ou se você quiser
- 
+#+begin_src latex
+\begin{center}
 \begin{Bmatrix}
 + & + &=&+ \\
 - & - &=&+ \\
 - & + &=&- \\
 + & - &=&- \\
-\end{Bmatrix} 
+\end{Bmatrix}
+\end{center}
+#+end_src
 
 Notas importantes:
 Multiplicar por $0,1$ é a mesma coisa que dividir por $10$.
@@ -173,4 +175,5 @@ Exemplo: $24\cdot 5 \rightarrow 24\cdot \frac{10}{2} \rightarrow {240 \over 2} =
 2-Soma e subtração.
 Exemplos:
 $40:5 -5=3$.
+
 $7^2 -4\cdot 2= 41$.
